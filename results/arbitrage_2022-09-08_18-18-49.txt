@@ -1,0 +1,12 @@
+{'buy_exchange': 'UNISWAP', 'sell_exchange': 'SUSHISWAP', 'arbitrage': '0.03', 'buy_price': 1615.24, 'sell_price': 1615.27}
+{'buy_exchange': 'UNISWAP', 'sell_exchange': 'SHEBASWAP', 'arbitrage': '1.24', 'buy_price': 1615.24, 'sell_price': 1616.48}
+{'buy_exchange': 'UNISWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '8.33', 'buy_price': 1615.24, 'sell_price': 1623.57}
+{'buy_exchange': 'SUSHISWAP', 'sell_exchange': 'SHEBASWAP', 'arbitrage': '0.91', 'buy_price': 1615.57, 'sell_price': 1616.48}
+{'buy_exchange': 'SUSHISWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '8.00', 'buy_price': 1615.57, 'sell_price': 1623.57}
+{'buy_exchange': 'SHEBASWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '5.07', 'buy_price': 1618.5, 'sell_price': 1623.57}
+{'buy_exchange': 'UNISWAP', 'sell_exchange': 'SUSHISWAP', 'arbitrage': '0.03', 'buy_price': 1615.24, 'sell_price': 1615.27}
+{'buy_exchange': 'UNISWAP', 'sell_exchange': 'SHEBASWAP', 'arbitrage': '1.24', 'buy_price': 1615.24, 'sell_price': 1616.48}
+{'buy_exchange': 'UNISWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '7.84', 'buy_price': 1615.24, 'sell_price': 1623.08}
+{'buy_exchange': 'SUSHISWAP', 'sell_exchange': 'SHEBASWAP', 'arbitrage': '0.91', 'buy_price': 1615.57, 'sell_price': 1616.48}
+{'buy_exchange': 'SUSHISWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '7.51', 'buy_price': 1615.57, 'sell_price': 1623.08}
+{'buy_exchange': 'SHEBASWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '4.58', 'buy_price': 1618.5, 'sell_price': 1623.08}

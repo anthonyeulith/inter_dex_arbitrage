@@ -1,0 +1,2 @@
+{'buy_exchange': 'SUSHISWAP', 'sell_exchange': 'UNISWAP', 'arbitrage': '0.40', 'buy_price': 1623.77, 'sell_price': 1624.17}
+{'buy_exchange': 'SUSHISWAP', 'sell_exchange': 'CROSWAP', 'arbitrage': '0.60', 'buy_price': 1623.77, 'sell_price': 1624.37}
